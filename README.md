@@ -219,6 +219,20 @@ This project demonstrates practical skills in:
 * Product Analysis
 * Sales Performance Analysis
 
+  ## 📸 Dashboard Preview
+
+### Sales Performance Overview
+
+![Sales Performance Overview](screenshots/sales-performance-overview.png)
+
+### Customer & Order Analysis
+
+![Customer & Order Analysis](screenshots/customer-order-analysis.png)
+
+### Product Performance Analysis
+
+![Product Performance Analysis](screenshots/product-performance-analysis.png)
+
 ## 👩‍💻 Author
 
 **Jayani Kaveesha**
