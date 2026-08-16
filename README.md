@@ -195,7 +195,7 @@ The dashboard helps answer questions such as:
 ```text
 Ecommerce-Sales-Performance-PowerBI/
 │
-├── Sales_Performance_Dashboard.pbix
+├── Ecommerce_analysis.pbix
 ├── README.md
 └── screenshots/
     ├── sales-performance-overview.png
